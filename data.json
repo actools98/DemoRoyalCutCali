@@ -1,0 +1,66 @@
+{
+  "business": {
+    "name": "Royal Cut Cali",
+    "full_name": "Barbería Royal Cut Sauko",
+    "category": "Barbería",
+    "phone": "+57 317 755 0472",
+    "whatsapp": "573177550472",
+    "instagram": "https://www.instagram.com/royalcutcali/?hl=es",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "city": "Cali",
+    "state": "Valle del Cauca",
+    "country": "Colombia"
+  },
+  "locations": [
+    {
+      "id": "sauko",
+      "name": "Boulevard Sauko",
+      "tag": "Sede principal",
+      "address": "Boulevard Conjunto Sauko, Local 11",
+      "city": "Cali, Valle del Cauca",
+      "plus_code": "8FXW+PX Cali, Valle del Cauca",
+      "map_url": "https://maps.google.com/?q=Boulevard+Conjunto+Sauko+Cali"
+    },
+    {
+      "id": "bocha",
+      "name": "Portal de la Bocha",
+      "tag": "Segunda sede",
+      "address": "Portal de la Bocha Plaza, Local 22 · Cra. 112 #28-47",
+      "city": "Cali, Valle del Cauca",
+      "map_url": "https://maps.google.com/?q=Cra.+112+%2328-47,+Cali"
+    }
+  ],
+  "services": [
+    { "name": "Corte",                    "price": 22000, "currency": "COP" },
+    { "name": "Corte + Pigmento",         "price": 26000, "currency": "COP" },
+    { "name": "Corte + Mascarilla",       "price": 32000, "currency": "COP" },
+    { "name": "Corte + Cejas",            "price": 25000, "currency": "COP" },
+    { "name": "Barba",                    "price": 14000, "currency": "COP" },
+    { "name": "Barba + Pigmento",         "price": 18000, "currency": "COP" },
+    { "name": "Cejas",                    "price": 10000, "currency": "COP" },
+    { "name": "Corte + Barba",            "price": 28000, "currency": "COP", "featured": true },
+    { "name": "Corte + Barba + Pigmento", "price": 32000, "currency": "COP", "featured": true },
+    { "name": "Corte + Barba + Cejas",    "price": 32000, "currency": "COP" }
+  ],
+  "testimonials": [
+    {
+      "author": "Jhonatan Florez Caicedo",
+      "stars": 5,
+      "quote": "Llevo varios años yendo a la barbería… llevo 43 cortes con ellos y la verdad muy buen servicio.",
+      "source": "Google"
+    },
+    {
+      "author": "Juan Pablo Jaramillo Cortez",
+      "stars": 5,
+      "quote": "La mejor barbería a la que he podido asistir, cada uno de sus barberos hace parte de la experiencia, capacitados, respetuosos y aseados.",
+      "source": "Google"
+    },
+    {
+      "author": "Juan Reyes",
+      "stars": 5,
+      "quote": "Excelente servicio, buen barbero Alexander.",
+      "source": "Google"
+    }
+  ]
+}
